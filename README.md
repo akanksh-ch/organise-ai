@@ -1,6 +1,6 @@
 # Organise AI✨
 
-This program allows you to organise your files based on any criteria you want.
+This program allows you to organise your files based on any criteria available.
 
 ### Example
 
